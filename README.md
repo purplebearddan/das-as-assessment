@@ -8,7 +8,10 @@ An assignment with room for employer colaboration during Digital Accessibility S
 
 The objective of this assignment is to create a static web application using HTML, CSS, and Vanilla JavaScript that follows best practice with accessability. 
 
-The assignment will focus on utilizing Developer tools, allowing students to choose their own subject, features, and design for their web app.
+The assignment will focus on 
+- utilizing developer tools that check accessibility features in web pages  - allowing students to choose their own 
+  - subject features
+  - design.
 
 Each learner will be responsible for producing one web app, ensuring the validity of HTML5 structure, responsiveness of CSS, and clean and error-free JavaScript code, this is in combination with running the site through accessability tools suchas WAVE / AXE Tools.
 
